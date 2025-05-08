@@ -38,7 +38,7 @@ git clone https://github.com/Nontuthuzelo49/PLP-wk8-Database-Nontuthuzelo49.git
 ```
 2️⃣ **Import the database in MySQL**:
 ```sh
-mysql -u root -p < HotelBookingSystemsDB.sql
+mysql -u root -p HotelBookingSystemsDB.sql
 ```
 3️⃣ **Verify Tables**:
 ```sql
